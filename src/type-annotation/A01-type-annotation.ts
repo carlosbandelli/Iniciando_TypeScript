@@ -19,6 +19,8 @@ let pessoa: { nome: string; idade: number; adulto?: boolean } = {
 };
 
 console.table(pessoa.nome);
+console.table(arrayDeNumeros);
+console.table(arrayDeStrings);
 
 // Funçoes
 //Tipagem de parametros //Tipagem de retorno
