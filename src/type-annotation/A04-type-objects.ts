@@ -6,6 +6,6 @@ const objetoA: {
   chaveB: 'Valor B',
 };
 
-objetoA.chavB = 'Outro Valor';
+objetoA.chaveB = 'Outro Valor';
 
 console.log(objetoA);
