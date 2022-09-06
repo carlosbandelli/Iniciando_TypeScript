@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;;AAAa;AACb","sources":["webpack://iniciando_typescript/./src/A019-exercicio/A019-exercicio.ts"],"sourcesContent":["\"use strict\";\r\nconsole.log('oi');\r\n"],"names":[],"sourceRoot":""}
